@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1756698278">
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="chaser_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS" Name="chaser_routed.rqs"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="RDI-RDI" Name="chaser.vdi"/>
+  <File Type="BG-DRC" Name="chaser.drc"/>
+  <File Type="BG-BGN" Name="chaser.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="chaser.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="chaser.ltx"/>
+  <File Type="RBD_FILE" Name="chaser.rbd"/>
+  <File Type="NPI_FILE" Name="chaser.npi"/>
+  <File Type="RNPI_FILE" Name="chaser.rnpi"/>
+  <File Type="CFI_FILE" Name="chaser.cfi"/>
+  <File Type="RCFI_FILE" Name="chaser.rcfi"/>
+  <File Type="PL-PDI-FILE" Name="chaser_pld.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="chaser_boot.pdi"/>
+  <File Type="PDI-FILE" Name="chaser.pdi"/>
+  <File Type="BITSTR-MMI" Name="chaser.mmi"/>
+  <File Type="BITSTR-BMM" Name="chaser_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="chaser.nky"/>
+  <File Type="BITSTR-RBT" Name="chaser.rbt"/>
+  <File Type="BITSTR-MSK" Name="chaser.msk"/>
+  <File Type="BG-BIN" Name="chaser.bin"/>
+  <File Type="BG-BIT" Name="chaser.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="chaser_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="chaser_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="chaser_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="chaser_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="chaser_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="chaser_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="chaser_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="chaser_postroute_physopt.dcp"/>
+  <File Type="ROUTE-RQS-PB" Name="chaser_rqs_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="chaser_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="chaser_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW" Name="chaser_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="chaser_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="chaser_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="chaser_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="chaser_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="chaser_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="chaser_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="chaser_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="chaser_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="chaser_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="chaser_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="chaser_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="chaser_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="chaser_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="chaser_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="chaser_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="chaser_drc_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="chaser_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="chaser_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="chaser_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="chaser_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="chaser_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="chaser_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="chaser_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="chaser_postplace_pwropt.dcp"/>
+  <File Type="PLACE-RQA-PB" Name="chaser_rqa_placed.pb"/>
+  <File Type="PLACE-TIMING" Name="chaser_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="chaser_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="chaser_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="chaser_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="chaser_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="chaser_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="chaser_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="chaser_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="chaser_placed.dcp"/>
+  <File Type="PWROPT-TIMING" Name="chaser_timing_summary_pwropted.rpt"/>
+  <File Type="PWROPT-DRC" Name="chaser_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="chaser_pwropt.dcp"/>
+  <File Type="OPT-RQA-PB" Name="chaser_rqa_opted.pb"/>
+  <File Type="OPT-TIMING" Name="chaser_timing_summary_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="chaser.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="chaser_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DRC" Name="chaser_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="chaser_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="chaser_timing_summary_init.rpt"/>
+  <File Type="REPORTS-TCL" Name="chaser_reports.tcl"/>
+  <File Type="PA-TCL" Name="chaser.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/clock_scaler.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/scale_adjuster.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/chaser.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="chaser"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/Chaser/Basys3.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/Basys3.xdc"/>
+        <Attr Name="ImportTime" Val="1755137000"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/chaser.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
